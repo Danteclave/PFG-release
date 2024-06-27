@@ -1,0 +1,81 @@
+{
+  "stringstick": {
+    "name": "Stick with a string",
+    "slot": "FISHING_ROD",
+    "fishing_power": 1,
+    "rare_bonus": 0,
+    "comfort": 0,
+    "stealth": 0,
+    "price": 0
+  },
+
+  "carbonfishingrod": {
+    "name": "Carbon fiber fishing rod",
+    "slot": "FISHING_ROD",
+    "fishing_power": 10,
+    "rare_bonus": 0,
+    "comfort": 0,
+    "stealth": 0,
+    "price": 200
+  },
+
+  "fishmagnet": {
+    "name": "Fish Magnet",
+    "slot": "BAIT",
+    "fishing_power": 220,
+    "rare_bonus": 0,
+    "comfort": 5,
+    "stealth": -1,
+    "price": 200
+  },
+
+  "fishermanhat": {
+    "name": "Fisherman's hat",
+    "slot": "HAT",
+    "fishing_power": 5,
+    "rare_bonus": -1,
+    "comfort": 1,
+    "stealth": -5,
+    "price": 100
+  },
+
+  "tophat": {
+    "name": "Top Hat",
+    "slot": "HAT",
+    "fishing_power": 0,
+    "rare_bonus": 5,
+    "comfort": 1,
+    "stealth": -5,
+    "price": 100
+  },
+
+  "skullcrusher": {
+    "name": "Skullcrusher",
+    "slot": "BOAT",
+    "fishing_power": 100,
+    "rare_bonus": 1,
+    "comfort": 10,
+    "stealth": -10,
+    "price": 1000
+  },
+
+  "44leafclover": {
+    "name": "44-leaf cover",
+    "slot": "CHARM",
+    "fishing_power": 0,
+    "rare_bonus": 10,
+    "comfort": 1,
+    "stealth": 0,
+    "price": 4444
+  },
+
+  "corkbottlenecklace": {
+    "name": "Necklace of bottle corks",
+    "slot": "CHARM",
+    "fishing_power": 0,
+    "rare_bonus": 5,
+    "comfort": 1,
+    "stealth": 0,
+    "price": 10
+  }
+}

@@ -1,0 +1,13 @@
+astroid==3.2.1
+dill==0.3.8
+importlib_metadata==7.1.0
+isort==5.13.2
+mccabe==0.7.0
+platformdirs==4.2.2
+pycodestyle==2.11.1
+pyflakes==3.2.0
+pylint==3.2.0
+tomli==2.0.1
+tomlkit==0.12.5
+yapf==0.40.2
+zipp==3.18.2
